@@ -96,4 +96,4 @@ valley. Needs further study outside the PA and protection -->
 - Member, [UW International Forestry Students' Association (IFSA)](http://students.washington.edu/ifsa/members/ifsa-officers)
 
 ### Contact me
-[cbogezi@uw.edu](mailto:cbogezi@uw.edu)
+[cbogezi@uw.edu](mailto:cbogezi@uw.edu) OR [cbogezi@gmail.com](mailto:cbogezi@gmail.com)
