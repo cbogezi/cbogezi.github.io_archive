@@ -4,15 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-I perform interdisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence in Washington State.
+I perform research on wildlife conservation issues, particularly human-carnivore interactions in Washington State using interdisciplinary methods.
 
 ### More Information
 
-I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10)  secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
+I recently earned my PhD in Environmental Science at the [University of Washington](http:/www.uw.edu)'s School of Environment and Forest Sciences [(SEFS)](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10) secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
 
 In 2016, the [Bullitt Foundation](http://www.bullitt.org) awarded me their 10th annual Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
 
-Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
+Following the Bullitt prize, the *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
 
 ### Recent Talks / Conferences
 **2019**
@@ -21,7 +21,7 @@ Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of t
 
 **2018**
 - December - panelist at
-Global Washington Annual Conference
+[Global Washington](www.globalwa.org)'s 2018 Annual Conference
 - November - Final Exam presentation: [*Interactions between People and Carnivores in Washington state*](http://www.sefs.washington.edu/tools/internalCalendar.shtml#/?i=1), University of Washington, School of Environment and Forest Sciences
 - September - presented [*"Wildlife Friendly Certification: Promoting Conservation, Community Livelihoods, and Responsible Sourcing"*](http://annual.aza.org/profile.cfm?profile_name=session&master_key=57C47E4A-F04D-A206-2B64-79B721518000&page_key=C5F8D10B-F04D-A206-2B64-A48F47734394&xtemplate) on behalf of Wildlife Friendly Enterprise Network at Aquariums and Zoos Association (AZA) 2018 Annual Conference, Seattle, WA
 - September - presented *"Tourism Opportunities in northern Uganda"* at the [Ugandan North American Association](https://www.unaaonline.org/seattle2018) convention, Bellevue, WA
@@ -61,7 +61,7 @@ Global Washington Annual Conference
   - Supervised day-to-day operations of rural farm.
 
 ### Education
-- PhD candidate, School of Environment and Forest Sciences; [University of Washington](http://www.uw.edu/sefs), Seattle, Washington
+- PhD, School of Environment and Forest Sciences; [University of Washington](http://www.uw.edu/sefs), Seattle, Washington
 > Dissertation: *Interactions between People and Carnivores in Washington state.*
 
 - Certificate, Nonprofit Management program; [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate), Seattle, Washington
