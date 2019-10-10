@@ -4,27 +4,18 @@ title: About Me
 permalink: /about/
 ---
 
-I perform research on wildlife conservation issues, particularly human-carnivore interactions in Washington State using interdisciplinary methods.
+I perform interdisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence in Washington State.
 
 ### More Information
 
-I recently earned my PhD in Environmental Science at the [University of Washington](http:/www.uw.edu)'s School of Environment and Forest Sciences [(SEFS)](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10) secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
+I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10)  secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
 
 In 2016, the [Bullitt Foundation](http://www.bullitt.org) awarded me their 10th annual Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
 
-Following the Bullitt prize, the *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
+Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
 
 ### Recent Talks / Conferences
-**2019**
-- May - invited keynote speaker for STEM (**S**cience, **T**echnology, **E**ngineering, and **M**athematics) Fair at Sammamish High School, Bellevue, WA
-- May - Fish & Wildlife Ecology Seminar, University of Washington
-
 **2018**
-- December - panelist at
-[Global Washington](www.globalwa.org)'s 2018 Annual Conference
-- November - Final Exam presentation: [*Interactions between People and Carnivores in Washington state*](http://www.sefs.washington.edu/tools/internalCalendar.shtml#/?i=1), University of Washington, School of Environment and Forest Sciences
-- September - presented [*"Wildlife Friendly Certification: Promoting Conservation, Community Livelihoods, and Responsible Sourcing"*](http://annual.aza.org/profile.cfm?profile_name=session&master_key=57C47E4A-F04D-A206-2B64-79B721518000&page_key=C5F8D10B-F04D-A206-2B64-A48F47734394&xtemplate) on behalf of Wildlife Friendly Enterprise Network at Aquariums and Zoos Association (AZA) 2018 Annual Conference, Seattle, WA
-- September - presented *"Tourism Opportunities in northern Uganda"* at the [Ugandan North American Association](https://www.unaaonline.org/seattle2018) convention, Bellevue, WA
 - July - presented *“The role of landscape connectivity features in cougar-human interactions in exurban areas”* at [Society for Conservation GIS](https://www.scgis.org/), Monterey, CA
 - May - invited keynote speaker for [STEM (science, technology, engineering, and mathematics) Career Fair](https://bsd405.org/sammamish/2018/05/stem-career-fair/) at Sammamish High School, Bellevue, WA
 - April - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
@@ -55,21 +46,17 @@ Following the Bullitt prize, the *Sunday Monitor* newspaper named me one of the 
     - Supervised field activities for WILD Program which included working with communities in close proximity to protected areas to identify suitable alternative livelihoods that would reduce human-wildlife conflict.
     - Participated in Environmental Impact Assessment review for oil development projects.
 
-
 - Farm Manager and Estate Director, Bosemba Farm, 2005 - 2008
 
   - Supervised day-to-day operations of rural farm.
 
 ### Education
-- PhD, School of Environment and Forest Sciences; [University of Washington](http://www.uw.edu/sefs), Seattle, Washington
-> Dissertation: *Interactions between People and Carnivores in Washington state.*
+- PhD candidate, School of Environment and Forest Sciences; [University of Washington](http://www.uw.edu/sefs), Seattle, Washington
 
 - Certificate, Nonprofit Management program; [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate), Seattle, Washington
 
 - MSc, Environment & Natural Resources; Makerere University, Kampala, Uganda
->Thesis: *Conservation of Crocodylus Suchus in Kidepo Valley National Park*
-<!-- http://www.usaidgems.org/Documents/FAA&Regs/FAA118119/Uganda_ETOA%202015.pdf Bogezi C did a comprehensive survey of this species in Kidepo
-valley. Needs further study outside the PA and protection -->
+
 - BSc, Zoology (Major); Botany & Psychology (Minor); Makerere University, Kampala, Uganda
 
 
@@ -90,10 +77,9 @@ valley. Needs further study outside the PA and protection -->
 
 - President, [Tusubira - We Have Hope Inc.](http://www.tusubira.org/board/)
 
-- Board Member, [Conservation Northwest](http://www.conservationnw.org)
 <!-- - Board Member, [Western Wildlife Outreach](http://www.westernwildlife.org)  -->
 
 - Member, [UW International Forestry Students' Association (IFSA)](http://students.washington.edu/ifsa/members/ifsa-officers)
 
 ### Contact me
-[cbogezi@uw.edu](mailto:cbogezi@uw.edu) OR [cbogezi@gmail.com](mailto:cbogezi@gmail.com)
+[cbogezi@uw.edu](mailto:cbogezi@uw.edu)
